@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Jill-Valentine
+- 👀 I’m interested in computer
+- 🌱 I’m currently learning JAVA,C++
